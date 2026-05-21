@@ -33,13 +33,13 @@ export default function Footer({ t }) {
             margin: 0,
           }}
         >
-          ©2025 — Masaid Fairus Trimarsongko
+          ©2026 — Masaid Fairus Trimarsongko
         </p>
 
         <div style={{ display: "flex", gap: "28px" }}>
           {[
-            { label: "LinkedIn", href: "https://linkedin.com" },
-            { label: "Instagram", href: "https://instagram.com" },
+            { label: "LinkedIn", href: "https://linkedin.com/masaidfairus" },
+            { label: "Instagram", href: "https://instagram.com/msaidfairuss" },
           ].map(({ label, href }) => (
             <a
               key={label}
